@@ -109,5 +109,4 @@ def main():
     print("You shoot your last arrow and try to run back through the door.")
     print("The bear catches you and tackles you.")
     gameover()
-
 main()
