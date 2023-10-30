@@ -110,3 +110,6 @@ def main():
     print("The bear catches you and tackles you.")
     gameover()
 main()
+
+#git config --global user.email yournew@email.com
+#git config --global user.name yournewgoodname
